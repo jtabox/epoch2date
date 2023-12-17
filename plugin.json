@@ -1,0 +1,12 @@
+{
+    "ID": "fa5ce852-450d-4693-a21e-844e6190778b",
+    "ActionKeyword": "epoch",
+    "Name": "epoch2date converter",
+    "Description": "Converts epoch in seconds to date/time - Python plugin for Flow Launcher",
+    "Author": "jtabox",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/jtabox/epoch2date",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
